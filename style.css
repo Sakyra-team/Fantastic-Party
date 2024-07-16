@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border:5px solid blue;
+    border-radius: 10px;
+    margin:5px;
+    padding:10px;
+}
+
+header b {
+    color:darkblue;
+}
+
+header a{
+    border:1px solid darkblue;
+    color:white;
+    background-color: darkblue;
+    border-radius: 5px;
+    text-decoration: none;
+    padding:3px 5px 3px 5px;
+}
+
+main h1 {
+    color:MediumOrchid;
+}
+
+footer p {
+    border: 2px solid gray;
+}
+
+main nav {
+    background-color: green;
+    padding:10px 5px 10px 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+nav a {
+    color:white;
+    text-decoration: none;
+    margin:40px;
+}
+
+.range {
+    border:3px solid darkblue;
+    border-radius: 10px;
+    padding:10px;
+}
+
+main h1 {
+    color:blue;
+}
+
+.soys {
+    color:darkblue;
+    border:3px solid darkblue;
+    text-decoration: none;
+    padding:10px;
+}
